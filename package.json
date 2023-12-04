@@ -1,0 +1,17 @@
+{
+	"name": "aoc-2023-ts",
+	"type": "module",
+	"scripts": {
+		"format": "prettier --write --ignore-unknown --cache ."
+	},
+	"devDependencies": {
+		"bun-types": "latest",
+		"prettier": "^3.1.0"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	},
+	"prettier": {
+		"useTabs": true
+	}
+}
